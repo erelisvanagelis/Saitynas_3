@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gameLibrary>
+    <accountName>Mr_potATo</accountName>
+    <avatar>https://www.dropbox.com/s/l0kcrhoxvxv8jwu/avatar.jpg?dl=0</avatar>
+    <games>
+        <game>
+            <title>Counter-Strike: Global Offensive</title>
+            <installed>false</installed>
+            <size>24.60</size>
+            <sizeMeasure>Gb</sizeMeasure>
+            <playTime>474.7</playTime>
+            <playTimeMeasure>h</playTimeMeasure>
+            <achievements>
+                <achievement>
+                    <title>Negev Expert</title>
+                    <description>Kill 100 enemies with Negev</description>
+                    <achieved>true</achieved>
+                    <percentOfPlayersAchieved>10.3</percentOfPlayersAchieved>
+                </achievement>
+                <achievement>
+                    <title>Base Scamper</title>
+                    <description>Kill an enemie just as their respawn protection ends in Arms Race mode</description>
+                    <achieved>false</achieved>
+                    <percentOfPlayersAchieved>27.4</percentOfPlayersAchieved>
+                </achievement>
+            </achievements>
+            <version>
+                <title>Operation Vanguard</title>
+                <build>1.6</build>
+                <release>2021-02-02</release>
+                <description>Introducing Operation Vanguard and several balance changes</description>
+            </version>
+            <developer>
+                <title>Valve</title>
+                <url>valve.com</url>
+            </developer>
+            <publisher>
+                <title>Volvo</title>
+                <url>volvo.com</url>
+            </publisher>
+            <purchasedDLC/>
+            <icon>csgoIcon.jpg</icon>
+            <image>csgoImage.jpg</image>
+        </game>
+        <game>
+            <title>Europa Universalis 4</title>
+            <installed>true</installed>
+            <size>2.9</size>
+            <sizeMeasure>Gb</sizeMeasure>
+            <playTime>228.4</playTime>
+            <playTimeMeasure>h</playTimeMeasure>
+            <achievements>
+                <achievement>
+                    <title>The pen is mightier than the sword</title>
+                    <description>Have three unions at the same time as Austria</description>
+                    <achieved>true</achieved>
+                    <percentOfPlayersAchieved>4.9</percentOfPlayersAchieved>
+                </achievement>
+                <achievement>
+                    <title>Isn't this the way to India</title>
+                    <description>Discover the Americas as Castile or Spain</description>
+                    <achieved>false</achieved>
+                    <percentOfPlayersAchieved>10.6</percentOfPlayersAchieved>
+                </achievement>
+            </achievements>
+            <version>
+                <title>Austria</title>
+                <build>1.30.2</build>
+                <release>2021-01-24</release>
+                <description>An update focused on austria</description>
+            </version>
+            <developer>
+                <title>Paradox Development Studio</title>
+                <url>https://www.paradoxinteractive.com/en/</url>
+            </developer>
+            <publisher>
+                <title>Paradox Interactive</title>
+                <url>https://www.paradoxinteractive.com/en/</url>
+            </publisher>
+            <purchasedDLC>
+                <dLC>
+                    <title>Mandate of Heaven</title>
+                    <installed>true</installed>
+                    <added>2020-01-22</added>
+                </dLC>
+                <dLC>
+                    <title>Art of War</title>
+                    <installed>true</installed>
+                    <added>2020-01-22</added>
+                </dLC>
+                <dLC>
+                    <title>Res Publica</title>
+                    <installed>true</installed>
+                    <added>2020-01-22</added>
+                </dLC>
+            </purchasedDLC>
+            <icon>eu4Icon.png</icon>
+            <image>eu4Image.jpg</image>
+        </game>
+        <game>
+            <title>Crusader Kings III</title>
+            <installed>true</installed>
+            <size>4.81</size>
+            <sizeMeasure>Gb</sizeMeasure>
+            <playTime>80</playTime>
+            <playTimeMeasure>h</playTimeMeasure>
+            <achievements>
+                <achievement>
+                    <title>Give a Dog a Bone</title>
+                    <description>Starting as Matilda di Canossa in 1066, rule Italy, have 50 Dynasty members, and found a Holy Order</description>
+                    <achieved>true</achieved>
+                    <percentOfPlayersAchieved>1.1</percentOfPlayersAchieved>
+                </achievement>
+                <achievement>
+                    <title>A Dangerous Business</title>
+                    <description>As a dwarf, win a Varangian Adventurer war anywhere outside of Europe</description>
+                    <achieved>false</achieved>
+                    <percentOfPlayersAchieved>0.1</percentOfPlayersAchieved>
+                </achievement>
+            </achievements>
+            <version>
+                <title>Corvus</title>
+                <build>1.3.1</build>
+                <release>2021-03-23</release>
+                <description>Today is the release of Northern Lords, and with it the free 1.3 patch that we’ve dubbed ‘Corvus’ in honor of Odin’s ravens! We’ve teased parts of the patch notes in previous Dev Diaries, but this time we’ll post them all - roughly 13 pages of changes and fixes, and this time there won’t be any omissions or [REDACTED] text!</description>
+            </version>
+            <developer>
+                <title>Paradox Development Studio</title>
+                <url>https://www.paradoxinteractive.com/en/</url>
+            </developer>
+            <publisher>
+                <title>Paradox Interactive</title>
+                <url>https://www.paradoxinteractive.com/en/</url>
+            </publisher>
+            <purchasedDLC>
+                <dLC>
+                    <title>Norhern Lords</title>
+                    <installed>false</installed>
+                    <added>2020-03-16</added>
+                </dLC>
+            </purchasedDLC>
+            <icon>ck3Icon.png</icon>
+            <image>ck3Image.jpg</image>
+        </game>
+    </games>
+</gameLibrary>
